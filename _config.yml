@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Boyi Hu"
-  avatar           : "/images/HuBoyi02lr.jpg"
+  avatar           : "HuBoyi02lr.jpg"
   pronouns         : # example: "she/her"  
   bio              : Postdoctoral research scientist in Biostatistics
   location         : "New York, USA"
