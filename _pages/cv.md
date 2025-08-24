@@ -27,7 +27,7 @@ Education
 Awards
 ======
 * Finalist, **_ARISE_** (Aging Research – Innovations in Statistical Exploration) program; selected for presentation in the ARISE Webinar Series (ASA Statistics and Data Science in Aging Interest Group), 2025
-* Alzheimer’s Association International Conference 2025 (AAIC) Fellowship
+* Alzheimer’s Association International Conference (AAIC) 2025 Fellowship
 * Finalist, Poster competition, *14th Annual Taub Institute Research Retreat*, 2024
 * Simon Fraser University Graduate Fellowship, 2022-2023
 * Mitacs Accelerate Fellowship, 2020-2021
