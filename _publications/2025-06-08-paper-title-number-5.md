@@ -6,6 +6,6 @@ permalink: /publication/An R package for monitoring test under density ratio mod
 excerpt: ''
 date: 2018-01-01
 venue: 'M.Sc. Thesis'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0371169)'
+paperurl: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0371169'
 citation: ''
 ---
