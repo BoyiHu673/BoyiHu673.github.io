@@ -2,7 +2,7 @@
 title: "Simultaneous Functional Quantile Regression"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Simultaneous_FQR
 date: 2024-01-01
 venue: 'Statistica Sinica'
 paperurl: 'https://doi.org/10.5705/ss.202021.0248'
