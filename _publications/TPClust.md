@@ -2,7 +2,7 @@
 title: "TPClust: Temporal Profile-Guided Disease Subtyping Using High-Dimensional Omics Data"
 collection: publications
 category: manuscripts
-permalink: /publication/CLoSE
+permalink: /publication/TPClust
 date: 2025-08-22
 venue: "biorxiv"
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.08.05.668514v1'
