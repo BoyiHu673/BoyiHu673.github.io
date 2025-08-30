@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/Simultaneous_FQR
 date: 2025-05-01
-venue: ''
 ---
 **Boyi Hu** and Jiguo Cao
 
