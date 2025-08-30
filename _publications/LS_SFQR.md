@@ -3,8 +3,8 @@ title: "Locally Sparse Estimation for Simultaneous Functional Quantile Regressio
 collection: publications
 category: manuscripts
 permalink: /publication/Simultaneous_FQR
-date: 2024-01-01
-venue: 'Revision invited by Journal of Computational and Graphical Statistics, resubmitted. '
+date: 2025-05-01
+venue: 'Revision invited by Journal of Computational and Graphical Statistics, resubmitted.'
 ---
 **Boyi Hu** and Jiguo Cao
 
