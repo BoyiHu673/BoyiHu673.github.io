@@ -2,7 +2,7 @@
 title: "Locally Sparse Estimation for Simultaneous Functional Quantile Regression"
 collection: publications
 category: manuscripts
-permalink: /publication/Simultaneous_FQR
+permalink: /publication/LS_SFQR
 date: 2025-05-01
 venue: "Under revision"
 ---
