@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/CLoSE
 date: 2025-01-01
-venue: "Accepted"
+venue: "Journal of Agricultural, Biological, and Environmental Statistics (accepted)"
 ---
 **Boyi Hu**, Hua Liu, Jinhong You and Jiguo Cao
 
