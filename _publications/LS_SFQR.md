@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/LS_SFQR
 date: 2025-05-01
-venue: "Under revision"
+venue: "Under review"
 ---
 **Boyi Hu** and Jiguo Cao
 
