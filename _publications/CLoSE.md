@@ -1,9 +1,8 @@
 ---
 title: "Convolution-Smoothing Based Locally Sparse Estimation for Functional Quantile Regression"
 collection: publications
-category: manuscripts
 permalink: /publication/CLoSE
-date: 2025-01-01
+date: 2026-01-25
 venue: "Journal of Agricultural, Biological, and Environmental Statistics (accepted)"
 ---
 **Boyi Hu**, Hua Liu, Jinhong You and Jiguo Cao
