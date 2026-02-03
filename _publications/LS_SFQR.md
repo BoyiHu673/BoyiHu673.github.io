@@ -3,7 +3,7 @@ title: "Locally Sparse Estimation for Simultaneous Functional Quantile Regressio
 collection: publications
 category: manuscripts
 permalink: /publication/LS_SFQR
-date: 2025-02-01
+date: 2026-02-01
 venue: "Journal of Computational and Graphical Statistics (accepted)"
 paperurl: 'https://arxiv.org/abs/2602.01691'
 ---
