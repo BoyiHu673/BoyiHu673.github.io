@@ -12,11 +12,11 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Boyi Hu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Boyi Hu"
+description              : &description "Postdoctoral research scientist in biostatistics, Columbia University"
 url                      : https://BoyiHu673.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BoyiHu673/BoyiHu673.github.io"
+repository               : "BoyiHu673.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
