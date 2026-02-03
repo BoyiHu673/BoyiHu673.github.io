@@ -12,9 +12,9 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Boyi Hu"
 title_separator          : "-"
-name                     : &name "Boyi Hu"
-description              : "Postdoctoral Research Scientist in Biostatistics at Columbia University"
-url                      : "https://boyihu673.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://BoyiHu673.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BoyiHu673/BoyiHu673.github.io"
 
