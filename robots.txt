@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://boyihu673.github.io/sitemap.xml
