@@ -7,8 +7,8 @@ date: 2026-01-25
 venue: "Journal of Agricultural, Biological, and Environmental Statistics"
 paperurl: 'https://doi.org/10.1007/s13253-026-00728-7'
 ---
-Hua Liu<sup>*</sup>, **Boyi Hu**<sup>*</sup>, Jinhong You and Jiguo Cao
-<sup>*</sup>These authors contributed equally and share first authorship.
+Hua Liu<sup>†</sup>, **Boyi Hu**<sup>†</sup>, Jinhong You and Jiguo Cao
+\<sup>†</sup>These authors contributed equally and share first authorship.
 
 *Journal of Agricultural, Biological, and Environmental Statistics.*
 
