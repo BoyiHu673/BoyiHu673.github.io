@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/CLoSE
 date: 2026-01-25
-venue: "Journal of Agricultural, Biological, and Environmental Statistics (accepted)"
-paperurl: 'https://arxiv.org/abs/2512.01341'
+venue: "Journal of Agricultural, Biological, and Environmental Statistics"
+paperurl: '[https://arxiv.org/abs/2512.01341](https://doi.org/10.1007/s13253-026-00728-7)'
 ---
 **Boyi Hu**, Hua Liu, Jinhong You and Jiguo Cao
 
