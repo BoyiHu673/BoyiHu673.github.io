@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/LS_SFQR
 date: 2026-02-01
-venue: "Journal of Computational and Graphical Statistics (accepted)"
+venue: "Journal of Computational and Graphical Statistics"
 paperurl: 'https://doi.org/10.1080/10618600.2026.2634830'
 ---
 **Boyi Hu** and Jiguo Cao
